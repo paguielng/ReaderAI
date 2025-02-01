@@ -10,9 +10,7 @@
 - **Lecture vocale** : Écoutez le texte dans plusieurs langues.
 - **Reconnaissance vocale** : Dictez et le programme transcrit pour vous.
 - **OCR** : Extrayez du texte à partir d'images ou de photos.
-
-## Installation
-
+- 
 ### Prérequis
 - Python 3.8 ou supérieur.
 - [Tesseract OCR](https://github.com/tesseract-ocr/tesseract) installé sur votre système.
@@ -35,20 +33,6 @@ Reader/
 │   ├── tests/              # Tests unitaires et d'intégration
 │   └── main.py             # Point d'entrée du programme
 ```
----
-
-### **Explications des sections**
-
-1. **Titre et description** : Présentez brièvement le projet et ses fonctionnalités principales.
-2. **Installation** : Guidez les utilisateurs pour installer et configurer le projet.
-3. **Utilisation** : Expliquez comment exécuter et utiliser le programme.
-4. **Structure du projet** : Décrivez l'organisation des fichiers pour les développeurs.
-5. **Contribuer** : Encouragez les contributions et expliquez comment participer.
-6. **Licence** : Indiquez les termes de la licence.
-7. **Auteur** : Ajoutez vos informations de contact.
-8. **Remerciements** : Reconnaissez les outils et bibliothèques utilisés.
-9. **Support** : Expliquez comment obtenir de l'aide.
-
 ---
 
 ### **Comment utiliser ce fichier**
