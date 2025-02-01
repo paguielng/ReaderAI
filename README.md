@@ -1,4 +1,4 @@
-# Reader-v 0.1
+# Reader-v 0.1 *Beta*
 
 **Reader** est un outil pour suivre la lecture en surlignant le texte et en lisant à haute voix. Il inclut des fonctionnalités de reconnaissance vocale et d'extraction de texte à partir d'images (OCR). Parfait pour améliorer la concentration et l'accessibilité.
 
