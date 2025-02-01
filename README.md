@@ -21,16 +21,16 @@
 1. Clonez ce dépôt :
    ```bash
    git clone https://github.com/votre-username/Reader.git
-
+   ```
 ```bash
 cd Reader
-
+```
 ```bash
 pip install -r requirements.txt
-
+```
 ```bash
 python src/main.py
-
+```
 ```plaintext
 Reader/
 ├── .github/                # Configuration CI/CD
