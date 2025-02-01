@@ -43,6 +43,6 @@ Reader/
 
 3. **[API Microsoft Azure Speech](https://azure.microsoft.com/services/cognitive-services/speech-services/)** : **`API de Microsoft Azure`** pour la reconnaissance vocale, la synthèse de la parole et la traduction vocale.
 
-4. **[Documentation pyttsx3](https://pyttsx3.readthedocs.io)** : **`pyttsx3`** une bibliothèque Python pour la conversion du texte en parole (TTS) qui fonctionne de manière offline.
+4. **[Docu. pyttsx3](https://pyttsx3.readthedocs.io)** : **`pyttsx3`** une bibliothèque Python pour la conversion du texte en parole (TTS) qui fonctionne de manière offline.
 
 
