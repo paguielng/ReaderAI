@@ -10,7 +10,7 @@
 - **Lecture vocale** : Écoutez le texte dans plusieurs langues.
 - **Reconnaissance vocale** : Dictez et le programme transcrit pour vous.
 - **OCR** : Extrayez du texte à partir d'images ou de photos.
-- 
+  
 ### Prérequis
 - Python 3.8 ou supérieur.
 - [Tesseract OCR](https://github.com/tesseract-ocr/tesseract) installé sur votre système.
