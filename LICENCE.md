@@ -2,8 +2,8 @@
 ---
 
 #### **Fichier : `LICENSE`**
-Ajoutez une licence pour votre projet. Par exemple, la licence MIT :
-```text
+Licence pour ce projet. Licence "Creative Commons - CC BY-NC-ND" (Attribution - Non-Commercial - No Derivatives) :
+
 Copyright 2025 PAGUIEL NG.
 
 La permission est accordée, gratuitement, à toute personne obtenant une copie de ce logiciel et des fichiers de documentation associés (le "Logiciel") de le consulter et d'en prendre connaissance, sous réserve des conditions suivantes :
