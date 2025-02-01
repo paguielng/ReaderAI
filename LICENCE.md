@@ -4,9 +4,9 @@
 #### **Fichier : `LICENSE`**
 Licence pour ce projet. Licence "Creative Commons - CC BY-NC-ND" (Attribution - Non-Commercial - No Derivatives) :
 
-```text
+
 COPYRIGHT 2025 PAGUIEL NG.
-```
+
 LA PERMISSION EST ACCORDÉE, GRATUITEMENT, À TOUTE PERSONNE OBTENANT UNE COPIE DE CE LOGICIEL ET DES FICHIERS DE DOCUMENTATION ASSOCIÉS DE LE CONSULTER ET D'EN PRENDRE CONNAISSANCE, SOUS RÉSERVE DES CONDITIONS SUIVANTES :
 
 1. Seules les personnes spécifiquement désignées par le titulaire des droits d'auteur, ainsi que le titulaire lui-même, sont autorisées à utiliser, modifier, distribuer, ou vendre ce Logiciel, peu importe l'utilisation (personnelle ou commerciale).
