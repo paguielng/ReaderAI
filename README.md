@@ -35,5 +35,18 @@ Reader/
 ```
 ---
 
+# Documentation
+
+1. **[Documentation Tesseract OCR](https://github.com/tesseract-ocr/tesseract)**
+   - Tesseract OCR est un moteur de reconnaissance optique de caractères (OCR) open-source.
+
+2. **[API Google Cloud Speech-to-Text](https://cloud.google.com/speech-to-text)**
+   - API de Google Cloud permettant de convertir la parole en texte en temps réel.
+
+3. **[API Microsoft Azure Speech](https://azure.microsoft.com/services/cognitive-services/speech-services/)**
+   - API de Microsoft Azure pour la reconnaissance vocale, la synthèse de la parole et la traduction vocale.
+
+4. **[Documentation pyttsx3](https://pyttsx3.readthedocs.io)**
+   - pyttsx3 est une bibliothèque Python pour la conversion du texte en parole (TTS) qui fonctionne de manière offline.
 
 
