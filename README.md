@@ -23,9 +23,7 @@
    git clone https://github.com/votre-username/Reader.git
    cd Reader
    pip install -r requirements.txt
-```
-```bash
-python src/main.py
+   python src/main.py
 ```
 ```plaintext
 Reader/
