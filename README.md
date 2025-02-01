@@ -52,9 +52,6 @@ Reader/
 ---
 
 ### **Comment utiliser ce fichier**
-1. Copiez ce contenu dans un fichier nommé `README.md` à la racine de votre projet.
-2. Personnalisez les sections avec vos informations (nom, email, liens, etc.).
-3. Poussez le fichier sur GitHub pour qu'il soit visible sur la page de votre dépôt.
 
 Si vous avez besoin d'autres ajustements ou d'une section supplémentaire, n'hésitez pas à me le dire ! 😊
 ```plaintext
