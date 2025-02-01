@@ -22,6 +22,7 @@
    ```bash
    git clone https://github.com/votre-username/Reader.git
 
+```bash
 cd Reader
 pip install -r requirements.txt
 python src/main.py
