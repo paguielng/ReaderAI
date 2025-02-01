@@ -37,7 +37,7 @@ Reader/
 
 # Documentation
 
-1. **[Documentation Tesseract OCR](https://github.com/tesseract-ocr/tesseract)** : **`Tesseract OCR`** est un moteur de reconnaissance optique de caractères (OCR) open-source.
+1. **[Documentation Tesseract OCR](https://github.com/tesseract-ocr/tesseract)** : **`Tesseract OCR`** un moteur de reconnaissance optique de caractères (OCR) open-source.
 
 2. **[API Google Cloud Speech-to-Text](https://cloud.google.com/speech-to-text)** : **`API de Google Cloud`** permettant de convertir la parole en texte en temps réel.
 
