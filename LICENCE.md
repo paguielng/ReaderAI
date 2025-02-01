@@ -1,7 +1,7 @@
 
 ---
 
-#### **`LICENSE`** "Creative Commons - CC BY-NC-ND" (Attribution - Non-Commercial - No Derivatives) :
+#### **`LICENSE`** "Creative Commons - CC BY-NC-ND" (Attribution - Non-Commercial - No Derivatives)
 
 
 #### **`COPYRIGHT 2025 PAGUIEL NG.`**
