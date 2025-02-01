@@ -20,7 +20,7 @@
 ### Étapes
 1. Clonez ce dépôt :
 ```bash
-   git clone https://github.com/votre-username/Reader.git
+   git clone https://github.com/paguielng/Reader.git
    cd Reader
    pip install -r requirements.txt
    python src/main.py
