@@ -11,8 +11,6 @@
 - **Reconnaissance vocale** : Dictez et le programme transcrit pour vous.
 - **OCR** : Extrayez du texte à partir d'images ou de photos.
 
----
-
 ## Installation
 
 ### Prérequis
