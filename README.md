@@ -28,6 +28,7 @@ cd Reader
 pip install -r requirements.txt
 python src/main.py
 
+```plaintext
 Reader/
 ├── .github/                # Configuration CI/CD
 ├── docs/                   # Documentation supplémentaire
@@ -37,6 +38,7 @@ Reader/
 │   ├── tests/              # Tests unitaires et d'intégration
 │   └── main.py             # Point d'entrée du programme
 ---
+```
 
 ### **Explications des sections**
 
@@ -58,6 +60,7 @@ Reader/
 3. Poussez le fichier sur GitHub pour qu'il soit visible sur la page de votre dépôt.
 
 Si vous avez besoin d'autres ajustements ou d'une section supplémentaire, n'hésitez pas à me le dire ! 😊
+```plaintext
 ├── assets/                 # Images, polices, etc.
 ├── requirements.txt        # Dépendances Python
 ├── LICENSE                 # Licence du projet
