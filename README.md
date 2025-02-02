@@ -48,7 +48,7 @@ Reader/
 ---
 
 <div align="center">
-  <img src="https://i.imgur.com/wWUDADI.png" width="30%" alt="Image 1" />
-  <img src="https://i.imgur.com/Ch5gkQi.png" width="30%" alt="Image 2" />
-  <img src="https://i.imgur.com/yoeSnoa.png" width="30%" alt="Image 3" />
+  <img src="https://github.com/paguielng/Reader/blob/main/logo/Reader1.0-1.svg" width="30%" alt="Image 1" />
+  <img src="https://github.com/paguielng/Reader/blob/main/logo/httpwww.svg" width="30%" alt="Image 2" />
+  <img src="https://github.com/paguielng/Reader/blob/main/logo/Reader1.0-2.svg" width="30%" alt="Image 3" />
 </div>
