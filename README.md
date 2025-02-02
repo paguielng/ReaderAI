@@ -45,4 +45,10 @@ Reader/
 
 4. **[Docu. pyttsx3](https://pyttsx3.readthedocs.io)** : **`pyttsx3`** une bibliothèque Python pour la conversion du texte en parole (TTS) qui fonctionne de manière offline.
 
+---
 
+<div align="center">
+  <img src="https://i.imgur.com/wWUDADI.png" width="30%" alt="Image 1" />
+  <img src="https://i.imgur.com/Ch5gkQi.png" width="30%" alt="Image 2" />
+  <img src="https://i.imgur.com/yoeSnoa.png" width="30%" alt="Image 3" />
+</div>
