@@ -51,5 +51,5 @@ Reader/
 <div align="center">
   <img src="https://github.com/paguielng/Reader/blob/main/logo/Reader1.0-1.svg" width="15%" alt="Image 1" style="display: inline-block; margin: 0 20px;" />
   <img src="https://github.com/paguielng/Reader/blob/main/logo/Reader1.0-3.svg" width="15%" alt="Image 2" style="display: inline-block; margin: 0 20px;" />
-  <img src="https://github.com/paguielng/Reader/blob/main/logo/Reader1.0-2.svg" width="15%" alt="Image 3" style="display: inline-block; margin: 0 20px;" />
+  <img src="https://github.com/paguielng/Reader/blob/main/logo/Reader1.0-2.svg" width="15%" alt="Image 3" style="display: inline-block; margin: 0 100px;" />
 </div>
