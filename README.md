@@ -32,6 +32,7 @@ Reader/
 │   ├── utils/              # Utilitaires et fonctions helper
 │   ├── tests/              # Tests unitaires et d'intégration
 │   └── main.py             # Point d'entrée du programme
+├── logo/                   # Logos et fichiers design des versions
 ```
 ---
 
