@@ -57,4 +57,4 @@ Reader/
 </div>
 
 ---
-<img src="https://github.com/paguielng/Reader/blob/main/logo/Reader1.0-2%20analog-cover_2.jpg" width="15%" alt="Image 3"/>
+<img src="https://github.com/paguielng/Reader/blob/main/logo/Reader1.0-2%20analog-cover_2.jpg" alt="Image 3"/>
