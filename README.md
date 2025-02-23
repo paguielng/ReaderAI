@@ -1,4 +1,4 @@
-# <img src="https://github.com/paguielng/Reader/blob/main/logo/Reader1.0-3.svg" width="8%" alt="Image 2"/> Reader v1.0.0
+# <img src="https://github.com/paguielng/Reader/blob/main/logo/Reader1.0-1.jpg" width="8%" alt="Image 2"/> Reader v1.0.0
 
 **Reader** est un outil pour suivre la lecture en surlignant le texte et en lisant à haute voix. Il inclut des fonctionnalités de reconnaissance vocale et d'extraction de texte à partir d'images (OCR). Parfait pour améliorer la concentration et l'accessibilité.
 
