@@ -20,7 +20,7 @@
 - [Tesseract OCR](https://github.com/tesseract-ocr/tesseract) installé sur votre système.
 
 ### Étapes
-1. Clonez ce dépôt : **[Wiki Reader LLC](https://paguielng.gitlab.io/Readerwiki)** : 
+1. Clonez ce dépôt **[ Wiki Reader LLC](https://paguielng.gitlab.io/Readerwiki)** : 
 ```bash
    git clone https://github.com/paguielng/Reader.git
    cd Reader
