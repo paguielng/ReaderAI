@@ -51,4 +51,14 @@ Reader/
 4. **[Docu. pyttsx3](https://pyttsx3.readthedocs.io)** : **`pyttsx3`** une bibliothèque Python pour la conversion du texte en parole (TTS) qui fonctionne de manière offline.
 
 ---
+
+<div align="center">
+  <img src="https://github.com/paguielng/Reader/blob/main/logo/Reader1.0-1.svg" width="15%" alt="Image 1"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/paguielng/Reader/blob/main/logo/Reader1.0-3.svg" width="15%" alt="Image 2"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/paguielng/Reader/blob/main/logo/Reader1.0-2.svg" width="15%" alt="Image 3"/>
+</div>
+
+---
 <img src="https://github.com/paguielng/Reader/blob/main/logo/Reader1.0-2%20analog-cover_2.jpg" alt="Image 3"/>
