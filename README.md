@@ -2,7 +2,7 @@
 
 ---
 
-# <img src="https://github.com/paguielng/Reader/blob/main/logo/2_Reader_AI.jpg" src="https://github.com/paguielng/Reader-deepai/blob/main/logo/Deepai%20logo_LE_upscale_magic_x2_strength_95_similarity_30.jpg" width="8%" alt="Image logo icon"/> Reader v1.0.0
+# <img src="https://github.com/paguielng/Reader-deepai/blob/main/logo/Deepai%20logo_LE_upscale_magic_x2_strength_95_similarity_30.jpg" width="8%" alt="Image logo icon"/> Reader v1.0.0
 
 **Reader** est un outil pour suivre la lecture en surlignant le texte et en lisant à haute voix. Il inclut des fonctionnalités de reconnaissance vocale et d'extraction de texte à partir d'images (OCR). Parfait pour améliorer la concentration et l'accessibilité.
 
