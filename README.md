@@ -58,6 +58,7 @@ Reader/
   <img src="https://github.com/paguielng/Reader/blob/main/logo/Reader1.0-3.svg" width="15%" alt="Image 2"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/paguielng/Reader/blob/main/logo/Reader1.0-2.svg" width="15%" alt="Image 3"/>
+  <img src="https://github.com/paguielng/Reader-deepai/blob/main/logo/Deepai%20logo_LE_upscale_magic_x2_strength_95_similarity_30.jpg" width="15%" alt="Image 4"/>
 </div>
 
 ---
